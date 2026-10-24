@@ -1,0 +1,6 @@
+{
+  "name": "HCM Lite - Enterprise Human Capital Management",
+  "description": "Premium luxury enterprise human capital management platform for Saylani Hackathon featuring HR operations, automated attendance, smart leave, payroll tax calculations, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
